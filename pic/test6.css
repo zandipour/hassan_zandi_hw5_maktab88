@@ -182,3 +182,23 @@
     color: rgb(139, 102, 209);
     cursor: pointer;
 }
+
+.p1{
+    position: relative;
+    margin-top: 660px;
+    float: right;
+
+}
+
+.p2{
+    position: relative;
+    margin-top: 1310px;
+    float: right;
+}
+
+.p3{
+    position: relative;
+    margin-top: 1960px;
+    float: right;
+
+}
