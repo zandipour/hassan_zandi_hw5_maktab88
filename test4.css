@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: rgb(80, 158, 247);
+}
+
+.parent{
+    width: 280px;
+    height: 200px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    margin-top: 30px;
+    margin-left: 500px;
+    text-align: center;
+}
+
+.login{
+    color: darkgray;
+    margin-top: 30px;
+}
+
+.email{
+    text-align: center;
+    color: darkgray;
+    margin:3px;
+    background-color: rgb(226, 226, 226);
+    width: 220px;
+    height: 40px;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 2px;
+}
+.pass{
+    text-align: center;
+    color: darkgray;
+    margin:3px;
+    background-color: rgb(226, 226, 226);
+    width: 220px;
+    height: 40px;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 2px;
+}
+.btn{
+    text-align: center;
+    color:white;
+    margin:3px;
+    background-color: rgb(46, 135, 236);
+    width: 220px;
+    height: 40px;
+    border: 1px solid  rgb(46, 135, 236);
+    border-radius: 2px;
+}
