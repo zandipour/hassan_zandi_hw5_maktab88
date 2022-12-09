@@ -1,0 +1,184 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+.img{
+    width: 100%;
+    position: absolute;
+
+}
+
+.btn1{
+    position: relative;
+    width: 500px;
+    height: 100px;
+    margin-top: 235px;
+    margin-left: 403px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(66, 72, 104);
+    font-size: 40px;
+    color: rgb(201, 200, 200);
+    border: 1px solid rgb(201, 200, 200);
+    border-radius: 3px;
+
+}
+
+.btn1:hover{
+    background-color: rgb(201, 200, 200);
+    color: rgb(66, 72, 104);
+    cursor: pointer;
+}
+
+.blue{
+    width: 20px;
+    height: 20px;
+    position:fixed;
+    float: right;
+    background-color: rgb(66, 72, 104);
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 201px;
+
+}
+
+.green{
+    width: 20px;
+    height: 20px;
+    position:fixed;
+    float: right;
+    background-color: rgb(73, 146, 51);
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 227px;
+}
+
+.red{
+    width: 20px;
+    height: 20px;
+    position:fixed;
+    float: right;
+    background-color: rgb(233, 92, 92);
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 255px;
+}
+
+.orenge{
+    width: 20px;
+    height: 20px;
+    position:fixed;
+    float: right;
+    background-color: rgb(252, 113, 58);
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 280px;
+}
+#2{
+    text-align: center;
+}
+
+.pourple{
+    width: 20px;
+    height: 20px;
+    position:fixed;
+    float: right;
+    background-color: rgb(127, 75, 170);
+    border: 1px solid white;
+    border-radius: 50%;
+    margin-left: 420px;
+    margin-top: 305px;
+}
+.btn2{
+    position: relative;
+    width: 560px;
+    height: 70px;
+    margin-top: 567px;
+    margin-left: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:white;
+    border: 1px solid rgb(201, 200, 200);
+    border-radius: 3px;
+    background-color: rgb(67, 221, 119);
+    display: block;
+
+}
+
+.btn2:hover{
+    color: rgb(67, 221, 119);
+    background-color: white;
+    cursor: pointer;
+    
+}
+
+.btn3{
+    display: block;
+    position: relative;
+    width: 560px;
+    height: 70px;
+    margin-top: 585px;
+    margin-left: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:white;
+    border: 1px solid rgb(201, 200, 200);
+    border-radius: 3px;
+    background-color: rgb(236, 99, 75);
+
+}
+
+.btn3:hover{
+    background-color: white;
+    color: rgb(236, 99, 75);
+    cursor: pointer;
+}
+
+.btn4{
+    display: block;
+    position: relative;
+    width: 560px;
+    height: 70px;
+    margin-top: 584px;
+    margin-left: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:white;
+    border: 1px solid rgb(201, 200, 200);
+    border-radius: 3px;
+    background-color: rgb(211, 89, 52);
+
+}
+
+.btn4:hover{
+    background-color: white;
+    color: rgb(211, 89, 52);
+    cursor: pointer;
+}
+
+.btn5{
+    display: block;
+    position: relative;
+    width: 560px;
+    height: 70px;
+    margin-top: 583px;
+    margin-left: 105px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color:white;
+    border: 1px solid rgb(201, 200, 200);
+    border-radius: 3px;
+    background-color: rgb(139, 102, 209);
+}
+
+.btn5:hover{
+    background-color: white;
+    color: rgb(139, 102, 209);
+    cursor: pointer;
+}
